@@ -46,8 +46,8 @@ Operadores:
 
 '''
 
-x = 10
-usuario = "Luis Alfonso"
+x = 123
+usuario = "erika"
 # True / False
 if x > 10:
     print("x es mayor que 10")
